@@ -63,6 +63,10 @@
             "icon": "aws-rds.png"
         },
         {
+            "tag": "Qlik Replicate",
+            "icon": "qlik-replicate.png"
+        }        
+        {
             "tag": "Victoria Metrics",
             "icon": "victoria-metrics.png"
         }
