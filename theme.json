@@ -59,6 +59,10 @@
             "icon": "otel.png"
         },
         {
+            "tag": "Postgres",
+            "icon": "postgres.png"
+        },
+        {
             "tag": "Qlik Replicate",
             "icon": "qlik-replicate.png"
         }
