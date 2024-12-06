@@ -7,6 +7,10 @@
             "icon": "amazon-s3.png"
         },
         {
+            "tag": "Angular",
+            "icon": "angular.png"
+        },
+        {
             "tag": "Camel",
             "icon": "apache-camel.png"
         },
@@ -41,6 +45,10 @@
         {
             "tag": "Java",
             "icon": "java.png"
+        },
+        {
+            "tag": "JPA",
+            "icon": "jpa.png"
         },
         {
             "tag": "Kafka",
