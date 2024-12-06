@@ -115,10 +115,6 @@
             "icon": "service-now.png"
         },
         {
-            "tag": "ServiceNow2",
-            "icon": "service-now2.png"
-        },
-        {
             "tag": "Spring Boot",
             "icon": "spring-boot.png"
         }
