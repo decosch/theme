@@ -4,7 +4,8 @@
     "elements": [
         {
             "tag": "ActiveMQ",
-            "icon": "activemq.png"
+            "icon": "activemq.png",
+            "shape": "Pipe"
         },
         {
             "tag": "AWS S3",
@@ -12,7 +13,8 @@
         },
         {
             "tag": "Angular",
-            "icon": "angular.png"
+            "icon": "angular.png",
+            "shape": "WebBrowser"
         },
         {
             "tag": "Camel",
@@ -64,7 +66,8 @@
         },
         {
             "tag": "Kafka",
-            "icon": "kafka.png"
+            "icon": "kafka.png",
+            "shape": "Pipe"
         },
         {
             "tag": "Kubernetes",
@@ -76,7 +79,8 @@
         },
         {
             "tag": "MongoDB",
-            "icon": "mongo-db.png"
+            "icon": "mongo-db.png",
+            "shape": "Cylinder"
         },
         {
             "tag": "MSSQL",
@@ -94,7 +98,8 @@
         },
         {
             "tag": "Node",
-            "icon": "node-js.png"
+            "icon": "node-js.png",
+            "shape": "Hexagon"
         },
         {
             "tag": "OpenSearch",
@@ -110,7 +115,8 @@
         },
         {
             "tag": "Postgres",
-            "icon": "postgres.png"
+            "icon": "postgres.png",
+            "shape": "Cylinder"
         },
         {
             "tag": "PowerBuilder",
@@ -126,7 +132,8 @@
         },
         {
             "tag": "React",
-            "icon": "react.png"
+            "icon": "react.png",
+            "shape": "WebBrowser"
         },
         {
             "tag": "Redis",
@@ -138,7 +145,8 @@
         },
         {
             "tag": "Spring Boot",
-            "icon": "spring-boot.png"
+            "icon": "spring-boot.png",
+            "shape": "Hexagon"
         },
         {
             "tag": "Unicred",
