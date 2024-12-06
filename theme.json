@@ -43,6 +43,10 @@
             "icon": "filebeat.png"
         },
         {
+            "tag": "Golang",
+            "icon": "golang.png"
+        },
+        {
             "tag": "Grafana",
             "icon": "grafana.png"
         },
