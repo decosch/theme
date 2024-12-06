@@ -23,6 +23,10 @@
             "icon": "aws-rds.png"
         },
         {
+            "tag": "Bacen",
+            "icon": "bacen.png"
+        },
+        {
             "tag": "Dynatrace",
             "icon": "dynatrace.png"
         },
