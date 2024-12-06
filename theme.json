@@ -59,6 +59,10 @@
             "icon": "new-relic.png"
         },
         {
+            "tag": "Node",
+            "icon": "node-js.png"
+        },
+        {
             "tag": "OpenSearch",
             "icon": "opensearch.png"
         },
@@ -73,6 +77,18 @@
         {
             "tag": "Qlik Replicate",
             "icon": "qlik-replicate.png"
+        },
+        {
+            "tag": "React",
+            "icon": "react.png"
+        },
+        {
+            "tag": "Redis",
+            "icon": "redis.png"
+        },
+        {
+            "tag": "Spring Boot",
+            "icon": "spring-boot.png"
         }
     ]
 }
