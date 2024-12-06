@@ -14,7 +14,7 @@
         {
             "tag": "Android",
             "icon": "android.png",
-            "shape": "Mobile Device Portrait"
+            "shape": "MobileDevicePortrait"
         },
         {
             "tag": "Angular",
@@ -60,7 +60,7 @@
         {
             "tag": "IOS",
             "icon": "ios.png",
-            "shape": "Mobile Device Portrait"
+            "shape": "MobileDevicePortrait"
         },
         {
             "tag": "Jaeger",
