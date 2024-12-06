@@ -85,7 +85,8 @@
         },
         {
             "tag": "MySQL",
-            "icon": "mysql.png"
+            "icon": "mysql.png",
+            "shape": "Cylinder"
         },
         {
             "tag": "New Relic",
