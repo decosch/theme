@@ -7,6 +7,10 @@
             "icon": "amazon-s3.png"
         },
         {
+            "tag": "Camel",
+            "icon": "apache-camel.png"
+        },
+        {
             "tag": "AWS Prometheus",
             "icon": "aws-prometheus.png"
         },
@@ -41,6 +45,10 @@
         {
             "tag": "MinIO",
             "icon": "minio.png"
+        },
+        {
+            "tag": "MongoDB",
+            "icon": "mongo-db.png"
         },
         {
             "tag": "MSSQL",
