@@ -115,6 +115,10 @@
             "icon": "power-builder.png"
         },
         {
+            "tag": "Python",
+            "icon": "python.png"
+        },
+        {
             "tag": "Qlik Replicate",
             "icon": "qlik-replicate.png"
         },
