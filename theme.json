@@ -39,6 +39,10 @@
             "icon": "jaeger.png"
         },
         {
+            "tag": "Java",
+            "icon": "java.png"
+        },
+        {
             "tag": "Kafka",
             "icon": "kafka.png"
         },
@@ -71,8 +75,16 @@
             "icon": "otel.png"
         },
         {
+            "tag": "PHP",
+            "icon": "php.png"
+        },
+        {
             "tag": "Postgres",
             "icon": "postgres.png"
+        },
+        {
+            "tag": "PowerBuilder",
+            "icon": "power-builder.png"
         },
         {
             "tag": "Qlik Replicate",
