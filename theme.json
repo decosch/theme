@@ -12,6 +12,11 @@
             "icon": "amazon-s3.png"
         },
         {
+            "tag": "Android",
+            "icon": "android.png",
+            "shape": "Mobile Device Portrait"
+        },
+        {
             "tag": "Angular",
             "icon": "angular.png",
             "shape": "WebBrowser"
@@ -51,6 +56,11 @@
         {
             "tag": "Grafana",
             "icon": "grafana.png"
+        },
+        {
+            "tag": "IOS",
+            "icon": "ios.png",
+            "shape": "Mobile Device Portrait"
         },
         {
             "tag": "Jaeger",
