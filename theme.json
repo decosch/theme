@@ -67,6 +67,10 @@
             "icon": "mssql.png"
         },
         {
+            "tag": "MySQL",
+            "icon": "mysql.png"
+        },
+        {
             "tag": "New Relic",
             "icon": "new-relic.png"
         },
