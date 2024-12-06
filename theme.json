@@ -121,6 +121,14 @@
         {
             "tag": "Spring Boot",
             "icon": "spring-boot.png"
+        },
+        {
+            "tag": "Unicred",
+            "icon": "unicred.png"
+        },
+        {
+            "tag": "Unimed",
+            "icon": "unimed.png"
         }
     ]
 }
