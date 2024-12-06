@@ -32,7 +32,11 @@
         },
         {
             "tag": "AWS S3",
-            "icon": "aws-s3.png"
+            "icon": "amazon-s3.png"
+        },
+        {
+            "tag": "MinIO",
+            "icon": "minio.png"
         },
         {
             "tag": "New Relic",
