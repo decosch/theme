@@ -37,7 +37,15 @@
         {
             "tag": "MinIO",
             "icon": "minio.png"
+        },        
+        {
+            "tag": "MSSQL",
+            "icon": "mssql.png"
         },
+        {
+            "tag": "MSSQL2",
+            "icon": "mssql2.png"
+        },            
         {
             "tag": "New Relic",
             "icon": "new-relic.png"
@@ -53,6 +61,10 @@
         {
             "tag": "AWS RDS",
             "icon": "aws-rds.png"
+        },
+        {
+            "tag": "Qlik Replicate",
+            "icon": "qlik-replicate.png"
         },
         {
             "tag": "Victoria Metrics",
