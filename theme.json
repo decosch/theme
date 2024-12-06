@@ -37,19 +37,7 @@
         {
             "tag": "MinIO",
             "icon": "minio.png"
-        },
-        {
-            "tag": "MinIO2",
-            "icon": "minio2.png"
-        },
-        {
-            "tag": "MinIO3",
-            "icon": "minio3.png"
-        },
-        {
-            "tag": "MinIO4",
-            "icon": "minio4.png"
-        },            
+        },          
         {
             "tag": "New Relic",
             "icon": "new-relic.png"
