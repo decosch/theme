@@ -80,7 +80,8 @@
         },
         {
             "tag": "MSSQL",
-            "icon": "mssql.png"
+            "icon": "mssql.png",
+            "shape": "DataBase"
         },
         {
             "tag": "MySQL",
