@@ -43,6 +43,10 @@
             "icon": "minio2.png"
         },
         {
+            "tag": "MinIO3",
+            "icon": "minio3.png"
+        },        
+        {
             "tag": "New Relic",
             "icon": "new-relic.png"
         },
