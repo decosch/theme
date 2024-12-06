@@ -37,7 +37,11 @@
         {
             "tag": "MinIO",
             "icon": "minio.png"
-        },          
+        },        
+        {
+            "tag": "MSSQL",
+            "icon": "mssql.png"
+        },     
         {
             "tag": "New Relic",
             "icon": "new-relic.png"
