@@ -1,4 +1,4 @@
-    estilos = styles {
+    styles {
 
         relationship "Relationship" {
             #color #ff0000
