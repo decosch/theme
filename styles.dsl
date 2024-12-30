@@ -7,8 +7,21 @@ estilos = styles {
         colour white
         background red
     }
-    element "Component" {
-        background #85bbf0
-        color #ffffff
+    element "UI" {
+        shape WebBrowser
+    }
+    element "Microservice" {
+        fontSize 21
+        shape Hexagon
+    }
+    element "Folder" {
+        shape Folder
+    }
+    element "MessageBroker" {
+        shape Pipe
+    }
+    element "Topic" {
+        shape Pipe
+        height 100
     }
 }
