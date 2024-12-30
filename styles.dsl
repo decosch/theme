@@ -24,4 +24,25 @@ estilos = styles {
         shape Pipe
         height 100
     }
+    element "DataBase" {
+        shape Cylinder
+    }
+    element "Person" {
+        color #ffffff
+        fontSize 22
+        shape Person
+        background #1168bd
+    }
+    element "Especialista" {
+        background #08427b
+    }
+    element "Externo" {
+        background #999999
+        color #ffffff
+    }
+    element "Sistema Externo" {
+        background #999999
+        color #ffffff
+        shape RoundedBox
+    }
 }
