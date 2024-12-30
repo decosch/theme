@@ -45,4 +45,18 @@ estilos = styles {
         color #ffffff
         shape RoundedBox
     }
+    element "Software System" {
+        background #1168bd
+        color #ffffff
+        shape RoundedBox
+    }
+    element "Container" {
+        background #438dd5
+        color #ffffff
+        shape RoundedBox
+    }
+    element "Component" {
+        background #85bbf0
+        color #ffffff
+    }
 }
