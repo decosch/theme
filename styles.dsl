@@ -1,12 +1,6 @@
     styles {
 
-        relationship "Relationship" {
-            #color #ff0000
-            #dashed false
-            #routing Curved
-            #routing Orthogonal
-        }
-
+       
         element "Decision:Aprovado" {
             colour white
             background #5cb85c
