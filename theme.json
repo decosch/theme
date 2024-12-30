@@ -154,7 +154,7 @@
             "icon": "service-now.png"
         },
         {
-            "tag": "Spring Boot",
+            "tag": "SpringBoot",
             "icon": "spring-boot.png",
             "shape": "Hexagon"
         },
