@@ -1,5 +1,4 @@
 estilos = styles {
-    #Shapes Box RoundedBox Circle Ellipse Hexagon Cylinder Pipe Person Robot Folder WebBrowser MobileDevicePortrait MobileDeviceLandscape Component
     element "Decision:Aprovado" {
         colour white
         background #5cb85c
@@ -61,3 +60,4 @@ estilos = styles {
         color #ffffff
     }
 }
+#Shapes Box RoundedBox Circle Ellipse Hexagon Cylinder Pipe Person Robot Folder WebBrowser MobileDevicePortrait MobileDeviceLandscape Component
