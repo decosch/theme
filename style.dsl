@@ -63,3 +63,7 @@ estilos = styles {
         color #ffffff
     }
 }
+
+branding {
+    logo https://raw.githubusercontent.com/decosch/theme/refs/heads/main/unicred.png
+}
