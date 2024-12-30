@@ -1,4 +1,4 @@
-    styles {
+estilos = styles {
 
        
         element "Decision:Aprovado" {
