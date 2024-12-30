@@ -1,6 +1,5 @@
 estilos = styles {
-    #<Box|RoundedBox|Circle|Ellipse|Hexagon|Cylinder|Pipe|Person|Robot|Folder|WebBrowser|MobileDevicePortrait|MobileDeviceLandscape|Component>
-    
+    #Shapes Box RoundedBox Circle Ellipse Hexagon Cylinder Pipe Person Robot Folder WebBrowser MobileDevicePortrait MobileDeviceLandscape Component
     element "Decision:Aprovado" {
         colour white
         background #5cb85c
