@@ -65,5 +65,5 @@ estilos = styles {
 }
 
 branding {
-    logo https://raw.githubusercontent.com/decosch/theme/refs/heads/main/unicred.png
+    logo http://localhost:8181/workspace/24/images/unicred.png
 }
