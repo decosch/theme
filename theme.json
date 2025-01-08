@@ -150,6 +150,10 @@
             "icon": "redis.png"
         },
         {
+            "tag": "Rundeck",
+            "icon": "rundeck.png"
+        },
+        {
             "tag": "ServiceNow",
             "icon": "service-now.png"
         },
