@@ -13,6 +13,9 @@ estilos = styles {
     element "UI" {
         shape WebBrowser
     }
+    element "Mobile" {
+        shape MobileDevicePortrait
+    }
     element "Microservice" {
         fontSize 21
         shape Hexagon
