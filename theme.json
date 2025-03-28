@@ -163,6 +163,11 @@
         },
         {
             "tag": "SpringBoot",
+            "icon": "spring-boot.png",
+            "shape": "Hexagon"
+        },
+        {
+            "tag": "SpringBoot2",
             "icon": "spring-boot2.png",
             "shape": "Hexagon"
         },
