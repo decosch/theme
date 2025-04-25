@@ -81,7 +81,8 @@
         },
         {
             "tag": "Kotlin",
-            "icon": "kotlin.png"
+            "icon": "kotlin.png",
+            "shape": "Hexagon"
         },
         {
             "tag": "Kubernetes",
