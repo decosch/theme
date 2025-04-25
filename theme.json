@@ -34,6 +34,10 @@
             "icon": "aws-rds.png"
         },
         {
+            "tag": "Azure KeyVault",
+            "icon": "azure-key-vault.png"
+        },
+        {
             "tag": "Bacen",
             "icon": "bacen.png"
         },
