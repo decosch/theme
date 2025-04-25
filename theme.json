@@ -80,6 +80,10 @@
             "shape": "Pipe"
         },
         {
+            "tag": "Kotlin",
+            "icon": "kotlin.png"
+        },
+        {
             "tag": "Kubernetes",
             "icon": "kubernetes.png"
         },
